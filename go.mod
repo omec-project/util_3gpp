@@ -2,8 +2,6 @@ module github.com/omec-project/util_3gpp
 
 go 1.21
 
-toolchain go1.21.6
-
 require (
 	github.com/antonfisher/nested-logrus-formatter v1.3.1
 	github.com/omec-project/logger_conf v1.1.1-0.20240213150911-6ea2670f1fc0
